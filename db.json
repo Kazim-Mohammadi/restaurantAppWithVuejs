@@ -4,5 +4,11 @@
         "password": "user",
         "name": "user",
         "id": 1
+    }],
+    "restaurants": [{
+        "id": "1",
+        "name": "nasib",
+        "contact": 1234,
+        "address": "kabul"
     }]
 }
