@@ -2,7 +2,6 @@
     <nav>
         <router-link to="/">Home</router-link>
         <router-link to="/add-restaurant">Add Resaurant</router-link>
-        <router-link to="/update-restaurant">Update Restaurant</router-link>
         <a @click="logout" href="#">Logout</a>
     </nav>
 </template>
